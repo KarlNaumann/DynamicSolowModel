@@ -1,0 +1,14 @@
+# Python files
+/.vs/
+/.idea/
+/.ipynb_checkpoints/
+/__pycache__/
+
+# Environment and results files
+/simulations_*/
+/venv/
+/env/
+
+# Saved items and Matlab files
+*.zip
+*.fig
